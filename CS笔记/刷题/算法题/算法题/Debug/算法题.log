@@ -1,0 +1,3 @@
+﻿D:\Visual Studio 2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(算法题.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  凑零钱.cpp
+  算法题.vcxproj -> C:\Users\YBC\Desktop\CS笔记\刷题\算法题\Debug\编程题.exe
